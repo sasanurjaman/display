@@ -1,8 +1,8 @@
-# Created by https://www.toptal.com/developers/gitignore/api/laravel,windows,visualstudiocode
-# Edit at https://www.toptal.com/developers/gitignore?templates=laravel,windows,visualstudiocode
+# Created by https://www.toptal.com/developers/gitignore/api/laravel,visualstudiocode,windows
+# Edit at https://www.toptal.com/developers/gitignore?templates=laravel,visualstudiocode,windows
 
 ### Laravel ###
-.env
+/vendor/
 node_modules/
 npm-debug.log
 yarn-error.log
@@ -71,4 +71,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.toptal.com/developers/gitignore/api/laravel,windows,visualstudiocode
+# End of https://www.toptal.com/developers/gitignore/api/laravel,visualstudiocode,windows
